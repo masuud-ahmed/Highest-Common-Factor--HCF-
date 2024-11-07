@@ -6,8 +6,6 @@
     <title>Highest Common Factor (HCF)</title>
 </head>
 <body>
-    <h1>Name: Masud Ahmed Yusuf <br> ID: C1211446</h1>
-    <h2>Highest Common Factor (HCF) of Two Numbers</h2>
     <?php
      function calculateHCF($a = 18, $b = 24) {
     while ($b != 0) {
